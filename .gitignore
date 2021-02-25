@@ -1,0 +1,6 @@
+*.pdf
+target/
+.vscode
+.settings/
+.project
+.classpath
